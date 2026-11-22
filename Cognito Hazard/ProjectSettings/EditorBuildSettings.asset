@@ -29,8 +29,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/UnityJapanOffice/Scenes/NightB.unity
     guid: 6085043725c60594094703ba44e15e0b
+  - enabled: 1
+    path: Assets/Scenes/ControlScene.unity
+    guid: 8b72cd96a22745542a9f1e66452b68ce
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b0dfe762557a11141a5b142d91840a60, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 100f28dea5d6753449a754b5da9a2800, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 7c084d7a1b0e0f244a3ce9286be965aa, type: 2}
   m_UseUCBPForAssetBundles: 0
